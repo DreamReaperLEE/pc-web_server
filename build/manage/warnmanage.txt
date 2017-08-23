@@ -1,0 +1,72 @@
+missing module named 'win32com.gen_py' - imported by win32com, C:\Python27\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named org - imported by copy
+missing module named readline - imported by cmd, pdb, code, django.core.management.commands.shell, rlcompleter
+missing module named pwd - imported by posixpath, getpass, shutil, tarfile, distutils.util, webbrowser
+missing module named unittest.mock - imported by unittest, django.test
+missing module named fcntl - imported by tempfile, subprocess, django.core.files.locks
+missing module named _sysconfigdata - imported by distutils.sysconfig, sysconfig
+missing module named grp - imported by shutil, tarfile
+missing module named pyimod03_importers - imported by C:\Python27\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'org.python' - imported by pickle, xml.sax
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named _thread.RLock - imported by _thread, pkg_resources._vendor.pyparsing
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'importlib.machinery' - imported by pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named _imp - imported by pkg_resources
+missing module named _scproxy - imported by urllib
+missing module named EasyDialogs - imported by getpass
+missing module named termios - imported by getpass, django.utils.autoreload
+missing module named SOCKS - imported by ftplib
+missing module named rourl2path - imported by urllib
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions
+missing module named _xmlplus - imported by xml
+missing module named 'Carbon.File' - imported by plistlib
+missing module named 'Carbon.Files' - imported by plistlib
+missing module named Carbon - imported by plistlib
+missing module named vms_lib - imported by platform
+missing module named java - imported by platform
+missing module named MacOS - imported by platform
+missing module named macresource - imported by MacOS
+missing module named gestalt - imported by platform
+missing module named winreg.OpenKeyEx - imported by winreg, platform
+missing module named winreg.HKEY_LOCAL_MACHINE - imported by winreg, platform
+missing module named winreg.QueryValueEx - imported by winreg, platform
+missing module named winreg.CloseKey - imported by winreg, platform
+missing module named _systemrestart - imported by django.utils.autoreload
+missing module named 'urllib.parse' - imported by django.utils.encoding, django.utils.http
+missing module named cl - imported by aifc
+missing module named 'importlib.util' - imported by django.utils.module_loading
+missing module named 'email.headerregistry' - imported by django.core.mail.message
+missing module named enum - imported by django.db.migrations.serializer, django.db.migrations.writer
+missing module named sqlparse - imported by django.db.backends.base.operations
+missing module named pysqlite2 - imported by django.db.backends.sqlite3.base
+missing module named 'psycopg2.extras' - imported by django.db.backends.postgresql.base, django.db.backends.postgresql.operations
+missing module named 'psycopg2.extensions' - imported by django.db.backends.postgresql.base
+missing module named psycopg2 - imported by django.db.backends.postgresql.base, django.db.backends.postgresql.schema
+missing module named cx_Oracle - imported by django.db.backends.oracle.base, django.db.backends.oracle.introspection
+missing module named pylibmc - imported by django.core.cache.backends.memcached
+missing module named memcache - imported by django.core.cache.backends.memcached
+missing module named jinja2 - imported by django.template.backends.jinja2, django.test.utils
+missing module named PIL - imported by django.core.validators, django.forms.fields, django.core.files.images, django.db.models.fields.files
+missing module named django.db.models.DecimalField - imported by django.db.models, django.db.backends.oracle.functions
+missing module named django.db.models.DurationField - imported by django.db.models, django.db.backends.oracle.functions
+missing module named django.db.models.AutoField - imported by django.db.models, django.forms.models
+missing module named pyinotify - imported by django.utils.autoreload
+missing module named 'django.utils.six.moves' - imported by django.utils.encoding, django.urls.base, django.dispatch.dispatcher, django.utils.http, django.utils.html, django.utils.text, django.utils.html_parser, django.http.cookie, django.utils.crypto, django.http.multipartparser, django.http.request, django.templatetags.static, django.core.files.storage, django.contrib.staticfiles.storage, django.forms.widgets, django.middleware.csrf, django.utils.ipv6, django.core.validators, django.forms.fields, django.forms.formsets, django.db.models.lookups, django.db.models.base, django.http.response, django.utils.regex_helper, django.utils.autoreload, django.core.management.templates, django.core.management.commands.flush, django.core.servers.basehttp, django.db.migrations.questioner, django.contrib.auth.decorators, django.contrib.auth.views, django.test.client, django.test.testcases, django.views.static, django.core.cache.backends.db, django.core.management.commands.makemigrations, django.db.models.sql.compiler, django.db.backends.base.base, django.db.backends.base.creation, django.db.backends.oracle.creation, django.db.backends.sqlite3.creation, django.contrib.admin.templatetags.admin_urls, django.middleware.common, django.core.cache.backends.locmem, django.core.cache.backends.filebased
+missing module named _dummy_threading - imported by dummy_threading
+missing module named bpython - imported by django.core.management.commands.shell
+missing module named mock - imported by django.test
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named posix - imported by os
+missing module named resource - imported by posix
